@@ -11,7 +11,7 @@ I build systems focused on improving workflows, data management, and user experi
 - [Projects](#-projects)
     <!-- - [Government & Institutional Systems](#government--institutional-systems)
     - [System Development Projects](#system-development-projects) -->
-- [Tech Stack & Exposure](#-tech-stack--exposure)
+- [Tech Stack & Exposure](#️-tech-stack--exposure)
 - [Transferable Skills](#-transferable-skills)
 - [Contact Me](#-contact-me)
 
@@ -22,8 +22,11 @@ I build systems focused on improving workflows, data management, and user experi
 
 ### 🏛️ Government & Institutional Systems
 
+>
 > ### Mandaluyong Citizen Profiling System  
-> Web-based platform for managing resident data and streamlining government benefit distribution.  
+> *Overview*: A centralized platform to consolidate citizen profiles, enabling barangays and the municipal office to efficiently manage resident data and distribute government benefits.
+>
+> *My Contribution*: Served as lead developer and project manager; built the system as a single-page application (SPA) using modern React and Laravel stacks. Simplified the interface for easier navigation, ensuring both usability and scalability across multiple barangays.  
 > <p>
 > <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 > <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -32,14 +35,19 @@ I build systems focused on improving workflows, data management, and user experi
 > </p>
 <!-- > 🔗 [Repo link placeholder](#)  
 > [⬆ Back to Top](#jayson-reyes) -->
+>
 
 > ### eGawa: Mandaluyong Online Services  
-> Conducted system analysis and proposed UI/UX and workflow improvements for the city’s digital service platform.  
+> *Overview*: The primary modern and centralized platform for the Municipal Government, allowing residents to apply online for zoning and green building certifications. The platform handles the full application process from submission to release and will eventually integrate with the Office of Building Officials’ permits and other municipal services.
+>
+>*My Contribution*: Served as system analyst and design consultant; improved the platform’s user interface for a more appealing and intuitive experience, and recommended process optimizations to enhance workflow efficiency across the system.  
 <!-- > 🔗 [Repo link placeholder](#)  
 > [⬆ Back to Top](#jayson-reyes) -->
 
 > ### University MIS Report Management System  
-> Centralized reporting system for consolidating and managing MIS reports across multiple campuses.  
+> *Overview*: A centralized reporting system for all MIS offices across Isabela State University campuses. The platform streamlines report submission and consolidation, replacing the previous manual process and enabling easier data visualization and analysis.
+>
+> *My Contribution*: Served as lead developer and project lead; implemented the system as a single-page application (SPA) using Vue.js and Laravel. Optimized the workflow for report submission and data consolidation to improve efficiency and accuracy across multiple campuses.
 > <p>
 > <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 > <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
@@ -50,7 +58,9 @@ I build systems focused on improving workflows, data management, and user experi
 > [⬆ Back to Top](#jayson-reyes) -->
 
 > ### University Article Repository System  
-> Centralized platform for organizing and managing articles with SDG tagging prior to WordPress publication.  
+> *Overview*: A centralized platform for managing news articles, announcements, and events to be posted on the campus’s social media channels and WordPress site. The system also incorporates SDG (Sustainable Development Goals) tagging for better categorization and reporting.
+>
+>*My Contribution*: Served as lead developer and project manager; implemented the system as a single-page application (SPA) using Vue.js and Laravel. Streamlined content management workflows, improved usability, and ensured efficient tagging and resource organization for seamless publication. 
 > <p>
 > <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 > <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
@@ -64,7 +74,9 @@ I build systems focused on improving workflows, data management, and user experi
 
 ### 🧩 System Development Projects
 > ### Garden of Life Park System  
-> Improved system performance and user experience by restructuring the development stack and interface design.  
+> *Overview*: A public-facing directory of tombs at the Mandaluyong public cemetery, allowing visitors to search and view tomb assignments. The admin side enables staff to manage listings, update records, and provide an overview of available cemetery services.
+>
+> *My Contribution*: Served as lead developer and project manager; reworked the system as a single-page application (SPA) using React and Laravel. Redesigned the interface to be lightweight, modern, and easy to navigate using Tailwind CSS, while improving performance and overall user experience for both visitors and administrators.
 > <p>
 > <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 > <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -75,7 +87,9 @@ I build systems focused on improving workflows, data management, and user experi
 > [⬆ Back to Top](#jayson-reyes) -->
 
 > ### AlagApp: Veterinary Clinic System  
-> Veterinary management system with pet monitoring, vaccination tracking, and online consultations.  
+> *Overview*: A standalone pet profiling and management application for a local pet shop, featuring vaccination tracking, appointment scheduling, and integration with Google Meet for online consultations.
+>
+> *My Contribution*: Served as lead developer and project manager for the team; implemented core features using PHP, Bootstrap, and jQuery. Designed the system to streamline pet management, scheduling, and online consultation workflows, improving operational efficiency for the clinic. 
 > <p>
 > <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 > <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -86,7 +100,9 @@ I build systems focused on improving workflows, data management, and user experi
 > [⬆ Back to Top](#jayson-reyes) -->
 
 > ### Warehouse Inventory System  
-> Inventory platform with automated stock tracking and dynamic pricing updates.  
+> *Overview*: A standalone inventory tracking platform for a local institution, enabling staff to monitor stock levels and automatically update item prices whenever new stock is added.
+>
+> *My Contribution*: Served as the sole developer under managerial supervision; built the system using PHP, jQuery, and Bootstrap. Implemented dynamic price updates and automated stock tracking, improving inventory management efficiency and reducing manual errors.
 > <p>
 > <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 > <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
@@ -97,7 +113,9 @@ I build systems focused on improving workflows, data management, and user experi
 > [⬆ Back to Top](#jayson-reyes) -->
 
 > ### Vehicle Maintenance and Itinerary System  
-> Integrated system for vehicle profiling, maintenance scheduling, and itinerary management.  
+> *Overview*: A system consisting of three modules: vehicle maintenance, vehicle information management (including drivers), and itinerary tracking. The system allows organizations to track vehicles, schedule maintenance (including fuel management), and monitor arrivals and departures for efficient fleet operations.
+>
+> *My Contribution*: Served as project lead and lead developer for the vehicle maintenance module; integrated all three modules and collaborated with other teams to troubleshoot, develop features, and ensure seamless operation across the system. Improved tracking workflows and system reliability for fleet management.
 > <p>
 > <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 > <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
@@ -106,6 +124,22 @@ I build systems focused on improving workflows, data management, and user experi
 > </p>
 <!-- > 🔗 [Repo link placeholder](#)  
 > [⬆ Back to Top](#jayson-reyes) -->
+
+---
+
+## 🖥️ Other Development Projects / Website Enhancements
+> ### Isabela State University Website 
+> *Overview*: Public-facing university website, serving as the main portal for news, announcements, and resources for students and staff.
+>
+> *My Contribution*: Co-developed the platform; implemented new features and improved design elements to enhance user experience and accessibility. Worked with WordPress and Elementor to ensure maintainable and visually appealing layouts.
+><p>
+><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+><img src="https://img.shields.io/badge/Elementor-7460F0?style=flat&logo=elementor&logoColor=white" />
+><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
+></p>
 
 ---
 
